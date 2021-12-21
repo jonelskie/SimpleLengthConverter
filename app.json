@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This simple length converter is just a school activity.",
+    "githubUrl": "https://github.com/jonelskie/SimpleLengthConverter"
   }
 }
